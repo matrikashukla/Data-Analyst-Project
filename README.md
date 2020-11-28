@@ -1,7 +1,7 @@
-# Data-Analyst-Project
+## Data-Analyst-Project
 Predicting Blood Donations
 
-Project Description
+# Project Description :
 
 "Blood is the most precious gift that anyone can give to another person — the gift of life." ~ World Health Organization
 
@@ -11,16 +11,26 @@ In this Project, you will work with data collected from the donor database of Bl
 
 To complete this Project, you need to know some Python, pandas, and logistic regression. We recommend one is familiar with the content in DataCamp's Manipulating DataFrames with pandas, Preprocessing for Machine Learning in Python, and Foundations of Predictive Analytics in Python (Part 1) courses.
 
-Project Tasks
+# Project Tasks :
 
 1.Inspecting transfusion.data file
+
 2.Loading the blood donations data
+
 3.Inspecting transfusion DataFrame
+
 4.Creating target column
+
 5.Checking target incidence
+
 6.Splitting transfusion into train and test datasets
+
 7.Selecting model using TPOT
+
 8.Checking the variance
+
 9.Log normalization
+
 10.Training the linear regression model
+
 11.Conclusion
